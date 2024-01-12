@@ -1,5 +1,6 @@
 # Projects-In-50-Days: HTML, CSS & JavaScript Edition
 
+## Description
 Welcome to the **Projects-In-50-Days: HTML, CSS & JavaScript Edition** repository! This is a personal challenge I've set for myself: To create 50 projects in 50 days, focusing solely on HTML, CSS, and JavaScript. The aim is to deepen my understanding and enhance my skills in web development.
 
 ## Objective
