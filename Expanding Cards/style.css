@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #333;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;  
+}
+
+.container {
+  display: flex;
+  width: 90vw;
+}
+
+.panel {
+  flex: 5;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 80vh;
+  color: #fff;
+  font-size: 4em;
+  cursor: pointer;
+  border-radius: 10px;
+  margin: 10px;
+  transition: flex 0.5s ease-in-out;
+}
+
+.panel h3 {
+  margin: 0;
+  font-size: 1em;
+  padding: 0.5em;
+  bottom: 20px;
+  opacity: 0;
+  transition: opacity 0.3s ease-in-out;
+}
+
+.panel.active {
+  flex: 7;
+  font-size: 2em;
+}
+
+.panel.active h3 {
+  opacity: 1;
+}
+
+@media (max-width: 768px) {
+  .container {
+    width: 100vw;
+  }
+
+  .panel {
+    font-size: 1.5em;
+  }
+
+  .panel h3 {
+    font-size: 0.5em;
+  }
+
+  .panel.active h3 {
+    font-size: 1em;
+  }
+
+  .panel.active {
+    font-size: 1.5em;
+  }
+
+  .panel:nth-of-type(4),
+  .panel:nth-of-type(5) {
+    display: none;
+  }
+}
