@@ -11,11 +11,18 @@ The primary goal of this challenge is to develop a robust portfolio of web-based
 
 Every day, I will be creating a new project that emphasizes different aspects and capabilities of HTML, CSS, and JavaScript. Here's a glimpse of what to expect:
 
-1. **Day 1**: 
+1. **Day 1**: **[01/12/2024]
      - Accomplishments:
          - Created a basic HTML structure for a personal portfolio website.
          - Styled the website using CSS to make it visually appealing.
          - Added JavaScript functionality to create a dynamic navigation menu.
+
+2. **Day 3**: **[01/12/2024]
+     - Accomplishments:
+         - Created an HTML structure for a progress steps interface.
+         - Styled the interface using CSS to make it visually appealing.
+         - Added JavaScript functionality to update the progress steps dynamically.
+
 
 ## Progress Tracking
 
