@@ -16,7 +16,12 @@ Every day, I will be creating a new project that emphasizes different aspects an
          - Styled the website using CSS to make it visually appealing.
          - Added JavaScript functionality to create a dynamic navigation menu.
 
-2. **Day 2**: **[01/13/2024]
+2. **Day 3**: **[01/12/2024]
+     - Accomplishments:
+         - Created an HTML structure for a progress steps interface.
+         - Styled the interface using CSS to make it visually appealing.
+         - Added JavaScript functionality to update the progress steps dynamically.
+
 
 ## Progress Tracking
 
